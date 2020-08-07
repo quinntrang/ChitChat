@@ -16,6 +16,7 @@
 		0B62818F235DF01000E35CAF /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B62818E235DF01000E35CAF /* LoginViewController.swift */; };
 		0B628191235DF01B00E35CAF /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B628190235DF01B00E35CAF /* ChatViewController.swift */; };
 		8E0F8A708BD64B13C6068C6A /* Pods_ChitChat.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65712EFCFB7E198F2712DC06 /* Pods_ChitChat.framework */; };
+		E40A841B24DDD18700D44750 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E40A841A24DDD18700D44750 /* GoogleService-Info.plist */; };
 		E46C2FB924DC9C6A005C0FA6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B62817C235DEE8100E35CAF /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -34,6 +35,7 @@
 		0B628190235DF01B00E35CAF /* ChatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatViewController.swift; sourceTree = "<group>"; };
 		3CF52C86A529B633490EDC74 /* Pods-ChitChat.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChitChat.release.xcconfig"; path = "Target Support Files/Pods-ChitChat/Pods-ChitChat.release.xcconfig"; sourceTree = "<group>"; };
 		65712EFCFB7E198F2712DC06 /* Pods_ChitChat.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ChitChat.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E40A841A24DDD18700D44750 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 				0B62817F235DEE8400E35CAF /* Assets.xcassets */,
 				0B628181235DEE8400E35CAF /* LaunchScreen.storyboard */,
 				0B628184235DEE8400E35CAF /* Info.plist */,
+				E40A841A24DDD18700D44750 /* GoogleService-Info.plist */,
 			);
 			path = ChitChat;
 			sourceTree = "<group>";
@@ -113,7 +116,6 @@
 				00693DA75DE9577764FFDE4B /* Pods-ChitChat.debug.xcconfig */,
 				3CF52C86A529B633490EDC74 /* Pods-ChitChat.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -186,6 +188,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0B628183235DEE8400E35CAF /* LaunchScreen.storyboard in Resources */,
+				E40A841B24DDD18700D44750 /* GoogleService-Info.plist in Resources */,
 				0B628180235DEE8400E35CAF /* Assets.xcassets in Resources */,
 				E46C2FB924DC9C6A005C0FA6 /* Main.storyboard in Resources */,
 			);

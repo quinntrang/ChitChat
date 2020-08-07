@@ -6,4 +6,6 @@ target 'ChitChat' do
 
   # Pods for ChitChat
 pod 'CLTypingLabel', '~> 0.4.0'
+pod 'Firebase/Auth'
+
 end
