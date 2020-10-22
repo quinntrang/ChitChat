@@ -4,7 +4,7 @@
 [![Swift Version][swift-image]][swift-url]
 [![License][license-image]][license-url]
 
-<img src="/Documentation/screenshotWelcome.png" width="30%"> <img src="/Documentation/screenshotRegister.png" width="30%">
+<img src="/Documentation/screenshotWelcome.png" width="30%"> <img src="/Documentation/screenshotRegister.png" width="30%"> <img src="/Documentation/screenshotChat.png" width="30%">
 
 ## Requirements
 
