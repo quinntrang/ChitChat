@@ -6,18 +6,22 @@
 
 Climate is an iOS application that fetches live weather data from OpenWeather API from any city and also presents user with weather data from their current location.
 
-![](/Documentation/screenshotLightMode.png)
+<img src="/Documentation/screenshotLightMode.png" width="30%"> <img src="/Documentation/screenshotDarkMode.png" width="30%">
 
 ## Features
 
-- [x] Feature 1
-- [x] Feature 2
-- [x] Feature 3
+- [x] User can search for live weather in any city
+- [x] Climate presents weather conditions at user's current location
+- [x] Light mode and dark mode available
 
 ## Requirements
 
 - iOS 13.0+
 - Xcode 11
+
+## References
+
+Thank you AppBrewery for providing the [skeleton](https://github.com/appbrewery/Flash-Chat-iOS13) for this project! 
 
 [swift-image]:https://img.shields.io/badge/swift-5.0-orange.svg
 [swift-url]: https://swift.org/
@@ -27,3 +31,4 @@ Climate is an iOS application that fetches live weather data from OpenWeather AP
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [codebeat-image]: https://codebeat.co/badges/c19b47ea-2f9d-45df-8458-b2d952fe9dad
 [codebeat-url]: https://codebeat.co/projects/github-com-vsouza-awesomeios-com
+
