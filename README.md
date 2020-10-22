@@ -5,6 +5,7 @@
 [![License][license-image]][license-url]
 
 ChitChat is a messaging app that utilizes Firestore to allow users to register and be authenticated with their emails, and find other users to chat with one another. This app is inspired by the Whatsapp messaging app and its user experience. 
+
 <img src="/Documentation/screenshotWelcome.png" width="30%"> <img src="/Documentation/screenshotRegister.png" width="30%"> <img src="/Documentation/screenshotChat.png" width="30%">
 
 ## Requirements
