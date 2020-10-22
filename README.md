@@ -4,15 +4,7 @@
 [![Swift Version][swift-image]][swift-url]
 [![License][license-image]][license-url]
 
-Climate is an iOS application that fetches live weather data from OpenWeather API from any city and also presents user with weather data from their current location.
-
 <img src="/Documentation/screenshotWelcome.png" width="30%"> <img src="/Documentation/screenshotRegister.png" width="30%">
-
-## Features
-
-- [x] 
-- [x] 
-- [x] 
 
 ## Requirements
 
